@@ -27,8 +27,7 @@
 // TODO: SHIFT + ENTER => submit comment  |
 
 define(
-['aloha', 'aloha/plugin', 'jquery', 'aloha/floatingmenu', 'i18n!format/nls/i18n', 'i18n!aloha/nls/i18n', 'aloha/console',
- 		'css!format/css/format.css'],
+['aloha', 'aloha/plugin', 'jquery', 'aloha/floatingmenu', 'i18n!format/nls/i18n', 'i18n!aloha/nls/i18n', 'aloha/console','css!format/css/format.css','css!comments/css/comments.css'],
 function(Aloha, Plugin, jQuery, FloatingMenu, i18n, i18nCore) {
 	"use strict";
 
