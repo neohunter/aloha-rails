@@ -1,3 +1,0 @@
-[submodule "vendor/assets/javascripts/aloha/plugins/community/colorselector"]
-	path = vendor/assets/javascripts/aloha/plugins/community/colorselector
-	url = git://github.com/jstrouse/Aloha-Plugin-Colorselector.git
