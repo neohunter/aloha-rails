@@ -1,0 +1,3 @@
+[submodule "vendor/assets/javascripts/aloha/plugins/community/colorselector"]
+	path = vendor/assets/javascripts/aloha/plugins/community/colorselector
+	url = git://github.com/deliminator/Aloha-Plugin-Colorselector.git
